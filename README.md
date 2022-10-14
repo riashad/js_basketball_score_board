@@ -1,2 +1,2 @@
-# js_basketball_score_board
+# Basketball Score Board - JavaScript
 Counts the score of teams of a basketball match
